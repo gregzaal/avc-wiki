@@ -1,9 +1,9 @@
 ---
 title: vc/alias
-description: 
+description:
 published: true
-date: 2020-07-28T17:24:32.619Z
-tags: 
+date: 2020-07-28T17:39:47.549Z
+tags:
 editor: undefined
 ---
 
@@ -18,12 +18,10 @@ Change the displayed name for a certain game if, for example it's too long to fi
 
 vc/alias `GAME NAME >> ALIAS`
 > Use `vc/aliases` to list all existing aliases and `vc/removealias` to delete one.
-{.is-info} 
-
+{.is-info}
 
 
 # Examples
 
 * `vc/alias The Elder Scrolls V: Skyrim >> Skyrim`
  Changes ***The Elder Scrolls V : Skyrim*** and instead displays it as just ***Skyrim***
-

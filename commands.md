@@ -2,8 +2,8 @@
 title: Commands
 description: A list of all bot commands with links to more detailed documentation for each.
 published: true
-date: 2020-07-28T17:39:49.694Z
-tags: 
+date: 2020-07-28T17:43:44.234Z
+tags:
 editor: undefined
 ---
 
