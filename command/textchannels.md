@@ -2,10 +2,15 @@
 title: vc/textchannels
 description: Create temporary private text channels for each voice chat
 published: true
-date: 2020-07-11T12:15:54.307Z
+date: 2020-07-29T08:48:19.803Z
 tags: 
-editor: undefined
+editor: markdown
 ---
+
+> **Premium Feature**
+> This feature is only available to Gold Patrons, unless you are self-hosting.
+{.is-info}
+
 
 Toggle whether or not to create temporary private text channels for each voice chat, for people to spam links, music bot commands, `/tts` (text-to-speech) commands, or for people without mics to type in. These channels are only visible to members of each voice chat and get deleted along with the VC once everyone leaves.
 
