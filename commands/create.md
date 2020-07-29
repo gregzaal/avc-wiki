@@ -1,9 +1,9 @@
 ---
 title: vc/create
-description: 
+description:
 published: true
 date: 2020-07-01T13:28:38.909Z
-tags: 
+tags:
 editor: undefined
 ---
 
@@ -16,9 +16,9 @@ You can create as many primary channels as you want and place them in different 
 
 Secondary channels will copy the perimissions, bitrate and user limit of their primary channel.
 
-By default secondary channels will be placed above their primary channel. Use [vc/toggleposition](/command/toggleposition) to place them below instead.
+By default secondary channels will be placed above their primary channel. Use [vc/toggleposition](/commands/toggleposition) to place them below instead.
 
-To set the name template of new secondary channels created using this primary channel, first join the primary channel and wait to be moved into a new channel, then use [vc/template](/command/template).
+To set the name template of new secondary channels created using this primary channel, first join the primary channel and wait to be moved into a new channel, then use [vc/template](/commands/template).
 
 > If you're still unclear what the difference between a "Primary" and "Secondary" channel is, read [How it Works](/how-it-works).
 {.is-info}

@@ -3,11 +3,11 @@ title: vc/textchannelname
 description: Set the name of all text channels created for VCs when vc/textchannels is on.
 published: true
 date: 2020-07-14T10:43:23.120Z
-tags: 
+tags:
 editor: undefined
 ---
 
-Change the name of the temporary private text channels made for each voice chat if [vc/textchannels](/command/textchannels) is enabled.
+Change the name of the temporary private text channels made for each voice chat if [vc/textchannels](/commands/textchannels) is enabled.
 
 The default name is "voice-context".
 

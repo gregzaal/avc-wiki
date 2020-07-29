@@ -3,7 +3,7 @@ title: ようこそ！
 description: Auto Voice Channels Discord BOTのヘルプドキュメントです。
 published: true
 date: 2020-07-07T18:17:33.480Z
-tags: 
+tags:
 editor: undefined
 ---
 
@@ -22,5 +22,5 @@ Auto Voice Channels は必要なときにボイスチャンネルを作成し、
 # クイックヘルプ
 1. [コマンドリスト](/commands)
 1. [動作説明](/how-it-works)
-2. [チャンネル名テンプレートオプションと例文](/command/template)
+2. [チャンネル名テンプレートオプションと例文](/commands/template)
 3. [よくある質問](/FAQ)

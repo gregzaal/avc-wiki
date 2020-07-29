@@ -3,7 +3,7 @@ title: vc/textchannels
 description: Create temporary private text channels for each voice chat
 published: true
 date: 2020-07-29T08:49:13.007Z
-tags: 
+tags:
 editor: markdown
 ---
 
@@ -16,19 +16,19 @@ Toggle whether or not to create temporary private text channels for each voice c
 
 This setting is **OFF** by default.
 
-To set the channel name for all future text channels, use the [vc/textchannelname](/command/textchannelname) command.
+To set the channel name for all future text channels, use the [vc/textchannelname](/commands/textchannelname) command.
 
 It's not currently possible to change the text channel names independently based on the template or VC name, all text channel names will be the same.
 
 > Discord has an internal limit of 50 channels (of any type) per category. I.e. 50 voice channels, or 25 voice + 25 text channels.
-> 
-> To get over this limit, you can always [create](/command/create) more primary channels in other categories.
+>
+> To get over this limit, you can always [create](/commands/create) more primary channels in other categories.
 {.is-warning}
 
-> Note: As an admin it may be tricky to discern which text channel is yours, since you can see all of them and they all have the same name. 
-> 
+> Note: As an admin it may be tricky to discern which text channel is yours, since you can see all of them and they all have the same name.
+>
 > Simply look at the user list on the right when selecting the channel - the one with the same members as the voice you're in is the one for you.
-> 
+>
 > You can safely rename your specific channel to make it easier to find again, but do not change the channel topic as this is used to find and delete the channel in some cases.
 {.is-info}
 

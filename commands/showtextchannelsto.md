@@ -3,11 +3,11 @@ title: vc/showtextchannelsto
 description: For moderation, show all text channels that are made with vc/textchannels to users with a certain role
 published: true
 date: 2020-07-14T10:41:06.918Z
-tags: 
+tags:
 editor: undefined
 ---
 
-Show the text channels that are made for each voice channel (when [vc/textchannels](/command/textchannels) is enabled) to users that have the specified role, e.g. moderators, or **@everyone** if you want them to be public.
+Show the text channels that are made for each voice channel (when [vc/textchannels](/commands/textchannels) is enabled) to users that have the specified role, e.g. moderators, or **@everyone** if you want them to be public.
 
 > Only one role can be specified, using this command multiple times will overwrite the previous setting.
 {.is-warning}

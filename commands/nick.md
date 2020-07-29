@@ -3,11 +3,11 @@ title: vc/nick
 description: Set a nickname for yourself
 published: true
 date: 2020-07-12T14:30:06.059Z
-tags: 
+tags:
 editor: undefined
 ---
 
-Set a nickname for yourself that will be used only in voice channel names if `@@creator@@` is in the [template](/command/template).
+Set a nickname for yourself that will be used only in voice channel names if `@@creator@@` is in the [template](/commands/template).
 
 Does not change your actual Discord nick/name.
 

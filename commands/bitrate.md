@@ -3,7 +3,7 @@ title: vc/bitrate
 description: Set a server-wide custom bitrate for yourself that will be used for any channels you join.
 published: true
 date: 2020-07-14T10:44:09.661Z
-tags: 
+tags:
 editor: undefined
 ---
 
@@ -16,7 +16,7 @@ This can be used either to improve audio quality (e.g. for music channels), or t
 
 If no one in the channel has set a custom bitrate, the bitrate of the primary ('New Session') channel will be used.
 
-Use [vc/channelinfo](/command/channelinfo) to check the current bitrate of the channel you're in.
+Use [vc/channelinfo](/commands/channelinfo) to check the current bitrate of the channel you're in.
 
 # Usage
 

@@ -3,14 +3,14 @@ title: vc/restrict
 description: Restrict a particular command so that only users with a certain role can use it.
 published: true
 date: 2020-07-28T17:38:48.706Z
-tags: 
+tags:
 editor: undefined
 ---
 
 Restrict a particular command so that only users with a certain role can use it. Server admins will always be able to use any command regardless of their roles.
 
-Use [vc/listroles @user](/command/listroles) to get a list of roles (and their IDs) that a user has.
-Use [vc/restrictions](/command/restrictions) to see any existing restrictions that are in place.
+Use [vc/listroles @user](/commands/listroles) to get a list of roles (and their IDs) that a user has.
+Use [vc/restrictions](/commands/restrictions) to see any existing restrictions that are in place.
 
 # Usage
 

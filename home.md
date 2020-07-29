@@ -3,12 +3,12 @@ title: Welcome!
 description: Help docs for the Auto Voice Channels discord bot.
 published: true
 date: 2020-07-01T15:41:24.697Z
-tags: 
+tags:
 editor: undefined
 ---
 
 > This documentation is a **work in progress**, not all features are documented yet.
-> 
+>
 > Until it's ready, you should just use the `vc/help` command to learn about the bot.
 {.is-warning}
 
@@ -25,5 +25,5 @@ There is an official [free public bot](https://discordapp.com/api/oauth2/authori
 
 1. [List of commands](/commands)
 1. [How it works](/how-it-works)
-2. [Channel name template options + examples](/command/template)
+2. [Channel name template options + examples](/commands/template)
 3. [Frequently asked questions](/FAQ)

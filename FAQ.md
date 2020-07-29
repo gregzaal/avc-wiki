@@ -3,7 +3,7 @@ title: Frequently Asked Questions
 description: Questions that we're tired of answering a thousand times :)
 published: true
 date: 2020-07-18T21:59:05.353Z
-tags: 
+tags:
 editor: undefined
 ---
 
@@ -34,7 +34,7 @@ Alpha and Beta are verified bots. Gamma is not verified because Discord (rightly
 
 Alpha is the original "Auto Voice Channels" bot, and is merely referred to as "Alpha" in our support server.
 
-# Why does the [toggleposition](/command/toggleposition) command not work?
+# Why does the [toggleposition](/commands/toggleposition) command not work?
 
 Channel positioning in discord is extremely unpredictable. We do our best and hackiest methods to get it as reliable as possible, but it's not always enough.
 
@@ -46,7 +46,7 @@ Channel positioning in discord is extremely unpredictable. We do our best and ha
 
 You can try manually moving channels around or deleting them to force the bot's cache to update, which may improve things for you. Otherwise there's nothing anyone can do because the bot already thinks things are correct, discord is simply giving it false information.
 
-# Can I make [private](/command/private) channels by default?
+# Can I make [private](/commands/private) channels by default?
 
 No. Private channels are very api-heavy and often hit discord's rate limit as it is. In their current implementation. making private channels by default would get the public bots banned.
 

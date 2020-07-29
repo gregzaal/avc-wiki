@@ -3,7 +3,7 @@ title: vc/template
 description: Automatically name your voice channels using dynamic variables
 published: true
 date: 2020-07-22T09:08:23.590Z
-tags: 
+tags:
 editor: undefined
 ---
 
@@ -17,7 +17,7 @@ To use the command, first join a [primary](/how-it-works#primary-and-secondary-c
 
 > vc/template `TEMPLATE`
 
-See [examples](/command/template#examples) below.
+See [examples](/commands/template#examples) below.
 
 
 # Template Variables
@@ -39,10 +39,10 @@ Here are the variables you can use:
 ## Names
 
 ### `@@game_name@@`
-Replaced with the game that most people in the channel are playing. If no one is playing anything or there is too much variety (more than 2 games with an equal number of players), "General" will be shown instead. Use [vc/general](/command/general) to use a different word than "General".
+Replaced with the game that most people in the channel are playing. If no one is playing anything or there is too much variety (more than 2 games with an equal number of players), "General" will be shown instead. Use [vc/general](/commands/general) to use a different word than "General".
 
 ### `@@creator@@`
-The name of the person who first joined the channel. This person has control over the channel and can use commands such as [vc/private](/command/private) and [vc/name](/command/name). If they leave, the person at the top of the channel (alphabetically) becomes the new creator.
+The name of the person who first joined the channel. This person has control over the channel and can use commands such as [vc/private](/commands/private) and [vc/name](/commands/name). If they leave, the person at the top of the channel (alphabetically) becomes the new creator.
 
 ### `@@stream_name@@`
 If the creator is streaming to Twitch and have their Twitch account connected to Discord (purple status), this is replaced with their stream name. If they are not streaming, it's simply removed.
@@ -92,7 +92,7 @@ Certain games provide discord with detailed information about the game a user is
 
 Not all games support this, in fact most of them don't, but some do and the bot can utilize this information in the channel name if it's available.
 
-What information is provided in which variables is up to the game developer, and there's no real standard, so it can be quite unpredictable from game to game. You'll just have to experiment with the options for different games to see what happens. You can run [vc/channelinfo](/command/channelinfo) to get a detailed list of Rich Presence data for each player if it's available.
+What information is provided in which variables is up to the game developer, and there's no real standard, so it can be quite unpredictable from game to game. You'll just have to experiment with the options for different games to see what happens. You can run [vc/channelinfo](/commands/channelinfo) to get a detailed list of Rich Presence data for each player if it's available.
 
 You may want to use the `{{RICH}}` [expression](/expressions) to check if the current game uses Rich Presence.
 

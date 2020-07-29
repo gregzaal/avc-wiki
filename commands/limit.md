@@ -3,7 +3,7 @@ title: vc/lock & vc/limit
 description: Limit the number of users allowed in your channel.
 published: true
 date: 2020-07-14T10:48:09.546Z
-tags: 
+tags:
 editor: undefined
 ---
 
@@ -11,7 +11,7 @@ Limit the number of users allowed in your channel to either the current number o
 
 `vc/lock` and `vc/limit` are actually the same command and can be used interchangably.
 
-To remove any limit, use [vc/unlock](/command/unlimit).
+To remove any limit, use [vc/unlock](/commands/unlimit).
 
 # Usage
 

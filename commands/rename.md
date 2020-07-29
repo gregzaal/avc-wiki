@@ -3,15 +3,15 @@ title: vc/rename
 description: Rename someone else's channel
 published: true
 date: 2020-07-12T14:26:24.229Z
-tags: 
+tags:
 editor: undefined
 ---
 
-Just like [vc/name](/command/name), but you can rename someone else's voice channel without having to be in that channel yourself.
+Just like [vc/name](/commands/name), but you can rename someone else's voice channel without having to be in that channel yourself.
 
 Only server admins can use this command.
 
-Like [vc/name](/command/name) it supports all variables from the [template](/command/template) command.
+Like [vc/name](/commands/name) it supports all variables from the [template](/commands/template) command.
 
 # Usage
 
