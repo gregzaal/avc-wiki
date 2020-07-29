@@ -2,13 +2,13 @@
 title: vc/textchannels
 description: Create temporary private text channels for each voice chat
 published: true
-date: 2020-07-29T08:48:19.803Z
+date: 2020-07-29T08:49:13.007Z
 tags: 
 editor: markdown
 ---
 
 > **Premium Feature**
-> This feature is only available to Gold Patrons, unless you are self-hosting.
+> This feature is only available to [Gold Patrons](https://www.patreon.com/pixaal), unless you are self-hosting.
 {.is-info}
 
 
