@@ -2,9 +2,9 @@
 title: Frequently Asked Questions
 description: Questions that we're tired of answering a thousand times :)
 published: true
-date: 2020-07-18T21:59:05.353Z
-tags:
-editor: undefined
+date: 2020-08-04T16:04:26.130Z
+tags: 
+editor: markdown
 ---
 
 # Why are the free public bots unstable/offline sometimes?
@@ -13,7 +13,7 @@ The free public bots are simply struggling with popularity. So many people are u
 
 Sometimes they'll take so long trying to do something that they'll actually just give up and never do it at all.
 
-They might also get stuck in an infinitely loop of creating channels for you and flood your server with broken channels, though this is less common.
+They might also get stuck in an infinite loop of creating channels for you and flood your server with broken channels, though this is less common.
 
 The only current solutions for this instability are:
 
