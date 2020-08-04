@@ -2,9 +2,9 @@
 title: Commands
 description: A list of all bot commands with links to more detailed documentation for each.
 published: true
-date: 2020-07-28T17:43:44.234Z
-tags:
-editor: undefined
+date: 2020-08-04T16:03:26.263Z
+tags: 
+editor: markdown
 ---
 
 The default prefix for all commands is `vc/`, e.g. `vc/create`. You can also @mention the bot instead, like `@Auto Voice Channels create`.
