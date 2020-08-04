@@ -2,7 +2,7 @@
 title: vc/servercheck 
 description: Display info about your server and the channels the bot knows about.
 published: true
-date: 2020-08-04T15:58:29.646Z
+date: 2020-08-04T15:58:50.250Z
 tags: 
 editor: markdown
 ---
