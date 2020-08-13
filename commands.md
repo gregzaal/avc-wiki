@@ -2,7 +2,7 @@
 title: Commands
 description: A list of all bot commands with links to more detailed documentation for each.
 published: true
-date: 2020-08-04T16:03:26.263Z
+date: 2020-08-13T17:35:27.431Z
 tags: 
 editor: markdown
 ---
