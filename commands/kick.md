@@ -2,7 +2,7 @@
 title: vc/kick
 description: Initiate a votekick to remove someone from your channel.
 published: true
-date: 2020-08-19T16:23:42.487Z
+date: 2020-08-19T16:27:45.190Z
 tags: 
 editor: markdown
 ---
@@ -30,4 +30,4 @@ vc/kick `@USER`
  Initaites a votekick to remove the user @pixaal from your channel
 - `vc/kick pixaal#1774`
    `Being mean`
-Initaites a votekick to remove the user pixaal#1774 from your channel while also mentioning them in a message telling them the reason , in this case *being mean*
+Initiates a votekick to remove the user pixaal#1774 from your channel while also mentioning them in a message telling them the reason , if the vote is in favour , in this case *being mean*
