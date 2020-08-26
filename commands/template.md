@@ -2,7 +2,7 @@
 title: vc/template
 description: Automatically name your voice channels using dynamic variables
 published: true
-date: 2020-08-26T15:39:26.893Z
+date: 2020-08-26T16:16:28.878Z
 tags: 
 editor: markdown
 ---
