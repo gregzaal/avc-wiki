@@ -2,9 +2,9 @@
 title: vc/template
 description: Automatically name your voice channels using dynamic variables
 published: true
-date: 2020-07-22T09:08:23.590Z
-tags:
-editor: undefined
+date: 2020-08-26T15:39:26.893Z
+tags: 
+editor: markdown
 ---
 
 Change the name template for [secondary](/how-it-works#primary-and-secondary-channels) channels dynamically using variables.
