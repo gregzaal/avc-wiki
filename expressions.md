@@ -2,7 +2,7 @@
 title: Expressions
 description: vc/help expressions
 published: true
-date: 2020-08-26T16:07:07.637Z
+date: 2020-08-26T16:15:50.372Z
 tags: 
 editor: markdown
 ---
@@ -47,4 +47,4 @@ You can also use `!=` instead of `=` to match anything **other** than exactly th
 
 The spaces around the `??` and `//` improve readability but may not be desired if you do not want any spaces around the result.
 
-If you have a question or need any help setting up an expression, please ask me in the support server. I'd be happy to add any extra variables you need.
+If you have a question or need any help setting up an expression, please ask me in the [support server](https://discord.io/DotsBotsSupport). I'd be happy to add any extra variables you need.
