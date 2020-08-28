@@ -2,15 +2,10 @@
 title: Welcome!
 description: Help docs for the Auto Voice Channels discord bot.
 published: true
-date: 2020-07-01T15:41:24.697Z
-tags:
-editor: undefined
+date: 2020-08-28T09:25:28.817Z
+tags: 
+editor: markdown
 ---
-
-> This documentation is a **work in progress**, not all features are documented yet.
->
-> Until it's ready, you should just use the `vc/help` command to learn about the bot.
-{.is-warning}
 
 Auto Voice Channels is an open-source Discord bot that allows users to create voice channels dynamically as they're needed, and delete them when they're not.
 
