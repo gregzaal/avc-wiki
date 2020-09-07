@@ -2,7 +2,7 @@
 title: Expressions
 description: vc/help expressions
 published: true
-date: 2020-08-26T16:15:50.372Z
+date: 2020-09-07T21:24:19.621Z
 tags: 
 editor: markdown
 ---
@@ -23,11 +23,11 @@ Check whether or not the creator has a particular role.
 Check if the game that users in the channel are playing (the same one that `@@game_name@@` returns, including aliases) matches **exactly** the text provided.
 You can also use `!=` instead of `=` to match anything **other** than exactly the text provided, or `:` to match anything that **contains** the text provided. E.g. `GAME:Call of Duty` will match with *"Call of Duty: Modern Warfare"*, but `GAME=Call of Duty` will not.
 - `PLAYERS>number`
-💳[*Patrons only*](https://www.patreon.com/pixaal). Check if the number of players in your game (determined either by Discord Rich Presence or the game activity statuses of members in the channel) is greater than the number provided. You can also use `<`, `<=`, `>=`, `=` and `!=`
+💎[*Patrons only*](https://www.patreon.com/pixaal). Check if the number of players in your game (determined either by Discord Rich Presence or the game activity statuses of members in the channel) is greater than the number provided. You can also use `<`, `<=`, `>=`, `=` and `!=`
 - `MAX>number`
-💳[*Patrons only*](https://www.patreon.com/pixaal). Check if the maximum number of players allowed in your game (determined by Discord Rich Presence or the channel limit) is greater than the number provided. You can also use `<`, `<=`, `>=`, `=` and `!=`
+💎[*Patrons only*](https://www.patreon.com/pixaal). Check if the maximum number of players allowed in your game (determined by Discord Rich Presence or the channel limit) is greater than the number provided. You can also use `<`, `<=`, `>=`, `=` and `!=`
 - `RICH`
-💳 [*Patrons only*](https://www.patreon.com/pixaal). Whether or not the current game uses Discord Rich Presence, which means `@@num_playing@@`, `@@party_size@@`, `@@party_state@@`, and `@@party_details@@` should have reliable values.
+💎[*Patrons only*](https://www.patreon.com/pixaal). Whether or not the current game uses Discord Rich Presence, which means `@@num_playing@@`, `@@party_size@@`, `@@party_state@@`, and `@@party_details@@` should have reliable values.
  
 ##  EXAMPLES
 
