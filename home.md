@@ -2,7 +2,7 @@
 title: Welcome!
 description: Help docs for the Auto Voice Channels discord bot.
 published: true
-date: 2020-08-28T09:25:28.817Z
+date: 2020-09-08T11:20:16.396Z
 tags: 
 editor: markdown
 ---
@@ -22,3 +22,4 @@ There is an official [free public bot](https://discordapp.com/api/oauth2/authori
 1. [How it works](/how-it-works)
 2. [Channel name template options + examples](/commands/template)
 3. [Frequently asked questions](/FAQ)
+4. [Support server](https://discord.io/DotsBotsSupport)
