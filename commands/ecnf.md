@@ -1,10 +1,10 @@
 ---
-title: vc/dcnf
+title: vc/ecnf
 description: Enable "command not found" errors.
 published: true
-date: 2020-07-28T17:00:16.150Z
+date: 2020-09-11T06:48:58.026Z
 tags: 
-editor: undefined
+editor: markdown
 ---
 
 Enable the error message when you type a command the bot does not recognise.
