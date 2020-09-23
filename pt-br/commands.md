@@ -2,7 +2,7 @@
 title: Comandos
 description: Uma lista de todos os comandos do bot com links para uma documentação mais datalhada para cada um.
 published: true
-date: 2020-09-23T02:29:47.976Z
+date: 2020-09-23T02:31:05.221Z
 tags: 
 editor: markdown
 ---
@@ -98,7 +98,7 @@ A maior parte destes comandos podem ser utilizados por qualquer um no seu servid
 
 Comandos que modificam um canal de voz normalmente exigem que você seja o criador do canal, ou um administrador.
 
-* [allyourbase](/commands/allyourbase) - (admin only) Assume a propriedade do canal no qual você está dentro.
+* [allyourbase](/commands/allyourbase) - (apenas administradores) Assume a propriedade do canal no qual você está dentro.
 * [bitrate](/commands/bitrate)💳 - Define uma taxa de bits personalizada para você.
 * [channelinfo](/commands/channelinfo) - Um comando de depuração para exibir informações sobre a taxa de bits e o jogo dos usuários em seu canal
 * [help](/commands/help) - Exibe informações sobre como utilizar o bot.
@@ -111,7 +111,7 @@ Comandos que modificam um canal de voz normalmente exigem que você seja o criad
 * [ping](/commands/ping) - Testa o tempo de resposta do bot.
 * [private](/commands/private) - Evita que outros usuários se juntem a você diretamente.
 * [public](/commands/public) - Torna o seu canal público novamente depois de ter definido como privado.
-* [rename](/commands/rename)💳 - (apenas para administradores) Semelhante à [vc/name](/commands/name), mas você pode renomear o canal de outras pessoas.
+* [rename](/commands/rename)💳 - (apenas administradores) Semelhante à [vc/name](/commands/name), mas você pode renomear o canal de outras pessoas.
 * [source](/commands/source) - Fornece um link para o código fonte do bot.
 * [transfer](/commands/transfer) - Transfere a propriedade de seu canal para outra pessoa.
 * [unlimit](/commands/unlimit)/[unlock](/commands/unlimit) - Remove o limite de usuários de seu canal.
