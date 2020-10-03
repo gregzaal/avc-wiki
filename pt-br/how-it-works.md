@@ -2,7 +2,7 @@
 title: Como funciona
 description: Explicação de alguns conceitos
 published: true
-date: 2020-10-03T21:30:26.977Z
+date: 2020-10-03T21:33:38.086Z
 tags: 
 editor: markdown
 ---
@@ -37,7 +37,7 @@ Se o criador original deixar o canal em algum momento, a pessoa que estiver no t
 
 # Como canais Seundários funcionam
 
-## Criação de Canal
+## Criação de Canais
 
 A maneira principal de criar canais é quando o bot detecta alguém entrando no canal Primário.
 
