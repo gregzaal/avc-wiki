@@ -2,10 +2,14 @@
 title: Expressions
 description: vc/help expressions
 published: true
-date: 2020-09-07T21:24:19.621Z
+date: 2020-10-10T06:47:46.263Z
 tags: 
 editor: markdown
 ---
+
+> Note: Since Discord increased their rate limit and channels are only renamed once every 10 minutes, expressions are significantly less useful than before - the information in the channel name can be up to 10 minutes out of date.
+{.is-warning}
+
 
 Expressions are a powerful way to set the channel name based on certain conditions, such as whether or not the creator has a particular role, what game is being played, and the party size.
 
