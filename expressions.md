@@ -1,8 +1,8 @@
 ---
 title: Expressions
-description: vc/help expressions
+description: Expressions are a powerful way to set the channel name based on certain conditions.
 published: true
-date: 2020-10-10T06:47:46.263Z
+date: 2020-10-13T15:42:48.730Z
 tags: 
 editor: markdown
 ---
