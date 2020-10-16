@@ -2,7 +2,7 @@
 title: Expressions
 description: Expressions are a powerful way to set the channel name based on certain conditions.
 published: true
-date: 2020-10-13T15:42:48.730Z
+date: 2020-10-16T15:28:19.537Z
 tags: 
 editor: markdown
 ---
@@ -26,6 +26,8 @@ Check whether or not the creator has a particular role.
 - `GAME=game name`
 Check if the game that users in the channel are playing (the same one that `@@game_name@@` returns, including aliases) matches **exactly** the text provided.
 You can also use `!=` instead of `=` to match anything **other** than exactly the text provided, or `:` to match anything that **contains** the text provided. E.g. `GAME:Call of Duty` will match with *"Call of Duty: Modern Warfare"*, but `GAME=Call of Duty` will not.
+- `LIVE`
+Whether or not the creator of the channel is streaming. Use `LIVE_DISCORD` to only detect discord's "Go Live" streams, or `LIVE_EXTERNAL` for Twitch. `LIVE` will include both.
 - `PLAYERS>number`
 💎[*Patrons only*](https://www.patreon.com/pixaal). Check if the number of players in your game (determined either by Discord Rich Presence or the game activity statuses of members in the channel) is greater than the number provided. You can also use `<`, `<=`, `>=`, `=` and `!=`
 - `MAX>number`
