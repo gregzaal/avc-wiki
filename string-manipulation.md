@@ -2,14 +2,14 @@
 title: vc/string-manipulation
 description: Modify text in different ways, such as case, word count, and "font"s
 published: true
-date: 2020-10-20T14:17:21.920Z
+date: 2020-10-20T14:19:23.692Z
 tags: 
 editor: markdown
 ---
 
 String manipulation can be done in your channel name template using this format:
 
-`""operation:Text to manipulate""`
+`vc/template ""operation:Text to manipulate""`
 
 ## Operations:
 
@@ -38,11 +38,11 @@ Also works with `2w` for first two words, or `Nw` where `N` is the number of wor
 ## Practical Use
 
 You can use any other template variables inside the text, E.g:
-`""3w+caps: @@game_name@@""` ⇾ `WORLD OF WARCRAFT`
-`""acro: @@game_name@@""` ⇾ `WoW`
+`vc/template ""3w+caps: @@game_name@@""` ⇾ `WORLD OF WARCRAFT`
+`vc/template Playing ""acro: @@game_name@@""` ⇾ `Playing WoW`
 
 Multiple operations can be used at once by adding a `+` between them. E.g:
-`""remshort+3w+acro+caps: It's a small world after all""` ⇾ `ISW`
+`vc/template ""remshort+3w+acro+caps: It's a small world after all""` ⇾ `ISW`
 
 ## "Font"s
 
