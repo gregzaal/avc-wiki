@@ -2,7 +2,7 @@
 title: vc/string-manipulation
 description: Modify text in different ways, such as case, word count, and "font"s
 published: true
-date: 2020-10-20T14:19:44.980Z
+date: 2020-10-20T14:19:58.383Z
 tags: 
 editor: markdown
 ---
@@ -48,8 +48,6 @@ Multiple operations can be used at once by adding a `+` between them. E.g:
 
 There is no way to change the font of any channel name in discord, however we there are some font-like characters in Unicode that we can convert normal characters to. 
 
-If you're combining string manipulations (using `+` between them), be sure to add the font last as they don't play nice with the other operations.
-
 Font list:
 
 * `bold`
@@ -66,5 +64,7 @@ Font list:
 * `bolditalicsans`
 * `mono`
 * `scaps` (small caps)
+
+If you're combining string manipulations (using `+` between them), be sure to add the font last as they don't play nice with the other operations.
 
 In some cases, not all characters are supported by a particular "font", such as an `x` in 'scaps' or probably most non-ascii characters. In these cases, the original character is displayed.
