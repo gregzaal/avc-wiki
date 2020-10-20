@@ -2,7 +2,7 @@
 title: vc/string-manipulation
 description: Modify text in different ways, such as case, word count, and "font"s
 published: true
-date: 2020-10-20T14:27:54.367Z
+date: 2020-10-20T19:34:02.560Z
 tags: 
 editor: markdown
 ---
@@ -46,7 +46,7 @@ Multiple operations can be used at once by adding a `+` between them. E.g:
 
 ## "Font"s
 
-There is no way to change the font of any channel name in discord, however we there are some font-like mathematical characters in Unicode that we can convert normal characters to. 
+There is no way to change the font of any channel name in discord, however there are some font-like mathematical characters in Unicode that we can convert normal characters to. 
 
 Font list:
 
