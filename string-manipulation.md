@@ -2,7 +2,7 @@
 title: vc/string-manipulation
 description: Modify text in different ways, such as case, word count, and "font"s
 published: true
-date: 2020-10-20T14:16:37.465Z
+date: 2020-10-20T14:17:21.920Z
 tags: 
 editor: markdown
 ---
@@ -11,7 +11,8 @@ String manipulation can be done in your channel name template using this format:
 
 `""operation:Text to manipulate""`
 
-Supported operations are:
+## Operations:
+
 * Convert to capital letters:
 `""caps: Text""` ⇾ `TEXT`
 * Convert to lower case letters:
