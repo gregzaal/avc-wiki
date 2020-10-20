@@ -2,7 +2,7 @@
 title: vc/string-manipulation
 description: Modify text in different ways, such as case, word count, and "font"s
 published: true
-date: 2020-10-20T14:19:58.383Z
+date: 2020-10-20T14:27:54.367Z
 tags: 
 editor: markdown
 ---
@@ -46,25 +46,25 @@ Multiple operations can be used at once by adding a `+` between them. E.g:
 
 ## "Font"s
 
-There is no way to change the font of any channel name in discord, however we there are some font-like characters in Unicode that we can convert normal characters to. 
+There is no way to change the font of any channel name in discord, however we there are some font-like mathematical characters in Unicode that we can convert normal characters to. 
 
 Font list:
 
-* `bold`
-* `italic`
-* `bolditalic`
-* `script`
-* `boldscript`
-* `fraktur`
-* `boldfraktur`
-* `double`
-* `sans`
-* `boldsans`
-* `italicsans`
-* `bolditalicsans`
-* `mono`
-* `scaps` (small caps)
+* `bold` ⇾ 𝐇𝐞𝐥𝐥𝐨 𝐰𝐨𝐫𝐥𝐝!
+* `italic` ⇾ 𝐻𝑒𝑙𝑙𝑜 𝑤𝑜𝑟𝑙𝑑!
+* `bolditalic` ⇾ 𝑯𝒆𝒍𝒍𝒐 𝒘𝒐𝒓𝒍𝒅!
+* `script` ⇾ He𝓁𝓁o 𝓌o𝓇𝓁𝒹!
+* `boldscript` ⇾ 𝓗𝓮𝓵𝓵𝓸 𝔀𝓸𝓻𝓵𝓭!
+* `fraktur` ⇾ H𝔢𝔩𝔩𝔬 𝔴𝔬𝔯𝔩𝔡!
+* `boldfraktur` ⇾ 𝕳𝖊𝖑𝖑𝖔 𝖜𝖔𝖗𝖑𝖉!
+* `double` ⇾ H𝕖𝕝𝕝𝕠 𝕨𝕠𝕣𝕝𝕕!
+* `sans` ⇾ 𝖧𝖾𝗅𝗅𝗈 𝗐𝗈𝗋𝗅𝖽!
+* `boldsans` ⇾ 𝗛𝗲𝗹𝗹𝗼 𝘄𝗼𝗿𝗹𝗱!
+* `italicsans` ⇾ 𝘏𝘦𝘭𝘭𝘰 𝘸𝘰𝘳𝘭𝘥!
+* `bolditalicsans` ⇾ 𝙃𝙚𝙡𝙡𝙤 𝙬𝙤𝙧𝙡𝙙!
+* `mono` ⇾ 𝙷𝚎𝚕𝚕𝚘 𝚠𝚘𝚛𝚕𝚍!
+* `scaps` (small caps) ⇾ Hᴇʟʟᴏ ᴡᴏʀʟᴅ!
 
 If you're combining string manipulations (using `+` between them), be sure to add the font last as they don't play nice with the other operations.
 
-In some cases, not all characters are supported by a particular "font", such as an `x` in 'scaps' or probably most non-ascii characters. In these cases, the original character is displayed.
+Not all characters are supported by most "font"s, such as an `x` in 'scaps', punctuation, or probably most non-ascii letters. In these cases, the original character is displayed.
