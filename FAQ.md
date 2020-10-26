@@ -2,7 +2,7 @@
 title: Frequently Asked Questions
 description: Questions that we're tired of answering a thousand times :)
 published: true
-date: 2020-10-26T15:02:40.837Z
+date: 2020-10-26T15:04:16.601Z
 tags: 
 editor: markdown
 ---
@@ -24,13 +24,11 @@ The only current solutions for this instability are:
 
 Discord has strict rate-limiting that prevents the bot from renaming channels too often. If we consistently hit these limits, the bot would get banned. To prevent this, channels are only checked for renaming once every 10 minutes. [More info here](/how-it-works#channel-renaming)
 
-# What is the difference between the *Alpha*, *Beta*, and *Gamma* bots?
+# What is the difference between the *Alpha*, *Beta*, and *Asia* bots?
 
-There is no difference, these are 3 copies of the same bot in an attempt to spread the load and improve performance.
+*Alpha* and *Beta* are the same, these are 2 copies of the same bot in an attempt to spread the load and improve performance.
 
-This worked for a while, but now all three of them are unstable.
-
-Alpha and Beta are verified bots. Gamma is not verified because Discord (rightly) disapproves of our caveman attempt at load balancing. Later this year Gamma may stop working due to the lack of verification.
+*Asia* is the same too, just hosted in Singapore for better response time to Asian discord servers.
 
 Alpha is the original "Auto Voice Channels" bot, and is merely referred to as "Alpha" in our support server.
 
