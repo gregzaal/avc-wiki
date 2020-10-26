@@ -2,7 +2,7 @@
 title: Frequently Asked Questions
 description: Questions that we're tired of answering a thousand times :)
 published: true
-date: 2020-10-26T15:02:21.475Z
+date: 2020-10-26T15:02:40.837Z
 tags: 
 editor: markdown
 ---
@@ -22,7 +22,7 @@ The only current solutions for this instability are:
 
 # Why isn't my channel renaming itself?
 
-Discord has strict rate-limiting that prevents the bot from renaming channels too often. If we consistently hit these limits, the bot would get banned. To prevent this, channels are only checked for renaming once every 5 minutes. [More info here](/how-it-works#channel-renaming)
+Discord has strict rate-limiting that prevents the bot from renaming channels too often. If we consistently hit these limits, the bot would get banned. To prevent this, channels are only checked for renaming once every 10 minutes. [More info here](/how-it-works#channel-renaming)
 
 # What is the difference between the *Alpha*, *Beta*, and *Gamma* bots?
 
