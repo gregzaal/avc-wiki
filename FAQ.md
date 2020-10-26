@@ -2,12 +2,12 @@
 title: Frequently Asked Questions
 description: Questions that we're tired of answering a thousand times :)
 published: true
-date: 2020-08-04T16:04:26.130Z
+date: 2020-10-26T15:02:21.475Z
 tags: 
 editor: markdown
 ---
 
-# Why are the free public bots unstable/offline sometimes?
+# Why are the free public bots unstable/slow/offline sometimes?
 
 The free public bots are simply struggling with popularity. So many people are using them that they're getting stuck and taking a long time to do anything, like creating channels or responding to commands.
 
