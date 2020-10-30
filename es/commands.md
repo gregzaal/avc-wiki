@@ -2,14 +2,14 @@
 title: Comandos
 description: Una lista de todos los comandos del Bot con enlaces a la documentación más detallada para cada uno.
 published: true
-date: 2020-10-30T12:53:19.519Z
+date: 2020-10-30T13:23:50.466Z
 tags: 
 editor: markdown
 ---
 
 El prefix predeterminado para todos los comandos es `vc/`, por ejemplo: `vc/create`. En su lugar, también puede @mencionar el Bot, como por ejemplo: `@Auto Voice Channels create`.
 
-Si cambia su prefijo y luego olvida cuál es, la única forma de usar el Bot nuevamente sería @mencionarlo con el comando de prefix, por ejemplo: `@Auto Voice Channels prefijo vc/`.
+Si cambia su prefijo y luego olvida cuál es, la única forma de usar el Bot nuevamente sería @mencionarlo con el comando de prefix, por ejemplo: `@Auto Voice Channels prefix vc/`.
 
 Para obtener más información sobre un comando en particular, escriba `vc/help nombrecomando`.
 
@@ -59,36 +59,36 @@ A continuación se muestra una lista de todos los comandos agrupados por comando
 
 Si está utilizando el bot público gratuito, "💳" indica que el comando solo puede ser utilizado por usuarios con la [Versión oro](https://patreon.com/pixaal). Si aloja su propio bot, se pueden usar todos los comandos.
 
-## Setup Commands
+## Comandos de configuración
 
-Commands that you'll probably only use a couple times when setting your channels up.
+Comandos que probablemente solo usarán un par de veces al configurar sus canales.
 
-All of these commands can only be used by server staff (people with both *manage channels* and *manage roles* permissions).
+Todos estos comandos solo pueden ser utilizados por el personal del servidor (personas con permisos de administración de canales y roles de administración).
 
-* [alias](/commands/alias) - Set an alias for a game name.
-* [aliases](/commands/aliases) - List all the game name aliases you've set.
-* [asip](/commands/asip) - Assume offline/no-status users are playing the same game.
-* [create](/commands/create) - Create a new primary channel.
-* [dcnf](/commands/dcnf) - Disable "command not found" errors.
-* [defaultlimit](/commands/defaultlimit) - Set the default user limit for secondaries from a certain primary.
-* [disable](/commands/disable) - Disable the bot.
-* [ecnf](/commands/ecnf) - Enable "command not found" errors.
-* [enable](/commands/enable) - Enable the bot (enabled by default).
-* [general](/commands/general)💳 - Set the word to use instead of "General" in channel names.
-* [inheritpermissions](/commands/inheritpermissions) - Set where secondaries get their permissions from (default from their primary).
-* [listroles](/commands/listroles) - List all the roles in your server and their IDs.
-* [logging](/commands/logging)💳 - Configure channel activity logging.
-* [prefix](/commands/prefix) - Set the bot prefix in your server (default `vc/`).
-* [removealias](/commands/removealias) - Remove a game name alias.
-* [restrict](/commands/restrict)💳 - Prevent users without a specific role from using certain commands.
-* [restrictions](/commands/restrictions)💳 - List the command restrictions you've set.
-* [servercheck](/commands/servercheck) - Display info about your server and the channels the bot knows about.
-* [showtextchannelsto](/commands/showtextchannelsto)💳 - Set a role that text channels created by the bot will also be visible to.
-* [template](/commands/template) - Set the name template for secondary channels.
-* [textchannelname](/commands/textchannelname)💳 - Set the name of text channels created by the bot.
-* [textchannels](/commands/textchannels)💳 - Tell the bot to create a private text channel for every secondary voice channel.
-* [toggleposition](/commands/toggleposition) - Toggle whether secondaries are created above or below their primaries.
-* [uniquenames](/commands/uniquenames)💳 - Force names set with [vc/name](/commands/name) to be unique.
+* [alias](/commands/alias) - Establece un alias para el nombre de un juego.
+* [aliases](/commands/aliases) - Lista todos los alias de nombres de juegos que has establecido.
+* [asip](/commands/asip) - Asume que los usuarios sin conexión/sin estado están jugando el mismo juego.
+* [create](/commands/create) - Crea un nuevo canal principal.
+* [dcnf](/commands/dcnf) - Desactiva los errores de "comando no encontrado".
+* [defaultlimit](/commands/defaultlimit) - Establece el límite de usuario predeterminado para los canales secundarios de un determinado canal principal.
+* [disable](/commands/disable) - Deshabilita el Bot.
+* [ecnf](/commands/ecnf) - Habilita los errores de "comando no encontrado"
+* [enable](/commands/enable) - Habilita el bot (habilitado de forma predeterminada).
+* [general](/commands/general)💳 - Establece la palabra que se utilizará en lugar de "General" en los nombres de los canales.
+* [inheritpermissions](/commands/inheritpermissions) - Establece de dónde obtienen los permisos los canales secundarios (predeterminado de su principal).
+* [listroles](/commands/listroles) - Lista todos los roles en su servidor y sus ID.
+* [logging](/commands/logging)💳 - Configura el registro de actividad del canal.
+* [prefix](/commands/prefix) - Establece el prefix del Bot en su servidor (`vc/` es el predeterminado).
+* [removealias](/commands/removealias) - Elimina un alias del  nombre de un juego.
+* [restrict](/commands/restrict)💳 - Evita que los usuarios sin un rol específico utilicen determinados comandos.
+* [restrictions](/commands/restrictions)💳 - Lista las restricciones de comando que ha establecido.
+* [servercheck](/commands/servercheck) - Muestra información sobre su servidor y los canales que conoce el Bot.
+* [showtextchannelsto](/commands/showtextchannelsto)💳 - Establece un rol para el que los canales de texto creados por el Bot también serán visibles.
+* [template](/commands/template) - Establece la plantilla de nombre para los canales secundarios.
+* [textchannelname](/commands/textchannelname)💳 - Establece el nombre de los canales de texto creados por el Bot.
+* [textchannels](/commands/textchannels)💳 - Dígale al bot que cree un canal de texto privado para cada canal de voz secundario.
+* [toggleposition](/commands/toggleposition) - Permite alternar si los canales secundarios se crean por encima o por debajo de los principales.
+* [uniquenames](/commands/uniquenames)💳 - Fuerza que los nombres establecidos con [vc/name](/commands/name) sean únicos.
 
 ## Usage Commands
 
