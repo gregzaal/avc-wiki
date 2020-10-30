@@ -2,7 +2,7 @@
 title: Comandos
 description: Una lista de todos los comandos del Bot con enlaces a la documentación más detallada para cada uno.
 published: true
-date: 2020-10-30T12:50:14.876Z
+date: 2020-10-30T12:53:19.519Z
 tags: 
 editor: markdown
 ---
@@ -55,9 +55,9 @@ También muestra la región del servidor y la región en la que está alojado el
 
 # Lista de todos los comandos
 
-Below is a list of all commands grouped by Setup commands and Usage commands.
+A continuación se muestra una lista de todos los comandos agrupados por comandos de configuración y comandos de uso.
 
-If you are using the free public bot, "💳" indicates that the command can only be used by Gold [patrons](https://patreon.com/pixaal). If you're hosting your own bot, all commands can be used.
+Si está utilizando el bot público gratuito, "💳" indica que el comando solo puede ser utilizado por usuarios con la [Versión oro](https://patreon.com/pixaal). Si aloja su propio bot, se pueden usar todos los comandos.
 
 ## Setup Commands
 
