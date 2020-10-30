@@ -2,7 +2,7 @@
 title: Comandos
 description: Una lista de todos los comandos del Bot con enlaces a la documentación más detallada para cada uno.
 published: true
-date: 2020-10-30T13:23:50.466Z
+date: 2020-10-30T15:18:05.300Z
 tags: 
 editor: markdown
 ---
@@ -90,28 +90,28 @@ Todos estos comandos solo pueden ser utilizados por el personal del servidor (pe
 * [toggleposition](/commands/toggleposition) - Permite alternar si los canales secundarios se crean por encima o por debajo de los principales.
 * [uniquenames](/commands/uniquenames)💳 - Fuerza que los nombres establecidos con [vc/name](/commands/name) sean únicos.
 
-## Usage Commands
+## Comandos de uso
 
-Commands that you may use regularly for controlling and modifying the channels you're in.
+Comandos que puede usar regularmente para controlar y modificar los canales en los que se encuentra.
 
-Most of these commands can be used by everyone in your server. Use the [restrict](/commands/restrict) command to prevent this if you don't want it.
+La mayoría de estos comandos pueden ser utilizados por todos en su servidor. Utilice el comando [restrict](/commands/restrict) para evitar esto si no lo desea.
 
-Commands that modify a voice channel usually require you to be the creator of the channel, or an admin.
+Los comandos que modifican un canal de voz generalmente requieren que usted sea el creador del canal o un administrador.
 
-* [allyourbase](/commands/allyourbase) - (admin only) Assume ownership of the channel you're in.
-* [bitrate](/commands/bitrate)💳 - Set a server-wide custom bitrate for yourself.
-* [channelinfo](/commands/channelinfo) - A debugging command to show game/bitrate info about users in your channel.
-* [help](/commands/help) - Show info on how to use the bot.
-* [invite](/commands/invite) - Gives you a link to invite the bot to a new server.
-* [kick](/commands/kick) - Initiate a votekick to remove someone from your channel.
-* [limit](/commands/limit)/[lock](/commands/limit) - Set the user limit of your channel.
-* [name](/commands/name)💳 - Rename your voice channel (supports all template options).
-* [nick](/commands/nick)💳 - Change how your name is shown in the channel name.
-* [patreon](/commands/patreon) - Gives you a link to the bot developers patreon page.
-* [ping](/commands/ping) - Test the response time of the bot.
-* [private](/commands/private) - Prevent users from being able to join you directly.
-* [public](/commands/public) - Make your channel public again after being private.
-* [rename](/commands/rename)💳 - (admin only) Like [vc/name](/commands/name), but you can rename someone else's channel.
-* [source](/commands/source) - Get a link to the source code of the bot.
-* [transfer](/commands/transfer) - Give ownership of your channel to someone else.
-* [unlimit](/commands/unlimit)/[unlock](/commands/unlimit) - Remove the user limit of your channel.
+* [allyourbase](/commands/allyourbase) - (solo administrador) Asume la propiedad del canal en el que estás.
+* [bitrate](/commands/bitrate)💳 - Establece una velocidad de bits personalizada para usted.
+* [channelinfo](/commands/channelinfo) - Un comando de depuración para mostrar información de juego/bitrate sobre los usuarios de su canal.
+* [help](/commands/help) - Muestra información/ayuda sobre cómo usar el Bot.
+* [invite](/commands/invite) - Te da un enlace para invitar al Bot a un nuevo servidor.
+* [kick](/commands/kick) - Inicia una votación para expulsar a alguien de su canal.
+* [limit](/commands/limit)/[lock](/commands/limit) - Establece el límite de usuario de su canal.
+* [name](/commands/name)💳 - Cambie el nombre de su canal de voz (admite todas las opciones de plantilla).
+* [nick](/commands/nick)💳 - Cambia cómo se muestra tu nombre en el nombre del canal.
+* [patreon](/commands/patreon) - Le da un enlace a la página de patreon de los desarrolladores de Bots.
+* [ping](/commands/ping) - Prueba el tiempo de respuesta del Bot.
+* [private](/commands/private) - Evita que los usuarios puedan unirse a usted directamente.
+* [public](/commands/public) - Vuelve a hacer público su canal después de ser privado.
+* [rename](/commands/rename)💳 - (solo administrador) Como [vc/name](/commands/name), pero puedes renombrar el canal de otra persona.
+* [source](/commands/source) - Obtenga un enlace al código fuente del Bot.
+* [transfer](/commands/transfer) - Transfiere la propiedad de su canal a otra persona.
+* [unlimit](/commands/unlimit)/[unlock](/commands/unlimit) - Elimina el límite de usuarios de su canal.
