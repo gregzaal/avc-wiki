@@ -2,7 +2,7 @@
 title: Comandos
 description: Una lista de todos los comandos del Bot con enlaces a la documentación más detallada para cada uno.
 published: true
-date: 2020-10-30T12:34:45.723Z
+date: 2020-10-30T12:37:33.893Z
 tags: 
 editor: markdown
 ---
@@ -34,3 +34,6 @@ Consulte aquí para obtener una [lista completa de las variables de plantilla di
 
 
 ### [vc/private](/commands/private)
+Haga que su canal de voz sea privado, evitando que nadie se una a usted directamente.
+
+Crea un canal "⇩ Join (username)" encima de ti para que las personas puedan solicitar unirse a ti. Cuando alguien se une a ese canal, el bot le enviará un mensaje pidiéndole que apruebe/rechace/bloquee su solicitud.
