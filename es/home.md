@@ -2,7 +2,7 @@
 title: ¡Bienvenid@!
 description: Documentación de ayuda para el Bot de Discord "Auto Voice Channels".
 published: true
-date: 2020-10-30T12:09:40.458Z
+date: 2020-10-30T12:10:19.461Z
 tags: 
 editor: markdown
 ---
