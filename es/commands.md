@@ -2,7 +2,7 @@
 title: Comandos
 description: Una lista de todos los comandos del Bot con enlaces a la documentación más detallada para cada uno.
 published: true
-date: 2020-10-30T12:34:25.753Z
+date: 2020-10-30T12:34:45.723Z
 tags: 
 editor: markdown
 ---
@@ -31,3 +31,6 @@ El canal principal se creará en algún lugar cerca de la parte superior de su s
 Los canales secundarios que se crean con canales primarios se nombrarán de acuerdo con su plantilla. Este comando le permite cambiar la plantilla. La plantilla predeterminada es `## [@@game_name@@]`.
 
 Consulte aquí para obtener una [lista completa de las variables de plantilla disponibles](/commands/template) que puede utilizar para personalizar los nombres de sus canales, incluidos ejemplos.
+
+
+### [vc/private](/commands/private)
