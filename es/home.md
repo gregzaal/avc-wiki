@@ -2,7 +2,7 @@
 title: ¡Bienvenid@!
 description: Documentación de ayuda para el Bot de Discord "Auto Voice Channels".
 published: true
-date: 2020-10-30T12:10:19.461Z
+date: 2020-10-30T12:23:59.961Z
 tags: 
 editor: markdown
 ---
@@ -15,6 +15,7 @@ Hay un [Bot público oficial gratuito](https://discordapp.com/api/oauth2/authori
 
 1. Para hostear el Bot usted mismo, lea las instrucciones en la [página principal de GitHub](https://github.com/gregzaal/Auto-Voice-Channels).
 2. Para la opción de pago y que le hosteemos el Bot, únase a uno de los niveles en [Patreon](https://www.patreon.com/pixaal) (desde $3/m).
+
 
 # Ayuda rápida
 
