@@ -2,7 +2,7 @@
 title: ¡Bienvenid@!
 description: Documentación de ayuda para el Bot de Discord "Auto Voice Channels".
 published: true
-date: 2020-10-30T12:04:45.826Z
+date: 2020-10-30T12:09:40.458Z
 tags: 
 editor: markdown
 ---
@@ -18,8 +18,8 @@ Hay un [Bot público oficial gratuito](https://discordapp.com/api/oauth2/authori
 
 # Ayuda rápida
 
-1. Lista de comandos
-2. Cómo funciona
-3. Opciones de plantilla para los nombre de los canales + ejemplos
-4. Preguntas frecuentes
-5. Servidor de soporte
+1. [Lista de comandos](/commands)
+2. [Cómo funciona](/how-it-works)
+3. [Opciones de plantilla para los nombre de los canales + ejemplos](/commands/template)
+4. [Preguntas frecuentes](/FAQ)
+5. [Servidor de soporte](https://discord.io/DotsBotsSupport)
