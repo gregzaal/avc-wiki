@@ -2,7 +2,7 @@
 title: Frequently Asked Questions
 description: Questions that we're tired of answering a thousand times :)
 published: true
-date: 2020-10-26T15:04:16.601Z
+date: 2020-10-30T20:35:44.839Z
 tags: 
 editor: markdown
 ---
@@ -55,6 +55,8 @@ This is a highly requested feature though, so it's quite likely we'll have a sol
 This is usually because the bot doesn't have permission to see (or reply in) the channel where you typed the command. Check the bot permissions in these three locations: The server, the category that the channel is in, and the channel itself.
 
 You should see the bot in the user list on the right, though it may still not have permission to send messages there. The most common cause of this is that you're hiding that channel from the everyone role, which includes the bot.
+
+If it's not that, then it's also possible you/someone changed the prefix. Just @mention the bot to test this ("`@Auto Voice Channels` ping"), and if it responds, then set your prefix back to what you expect it to be (default `vc/`) with "`@Auto Voice Channels` prefix vc/".
 
 # Why can't I see the bot in the user list?
 
