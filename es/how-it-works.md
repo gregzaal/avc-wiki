@@ -1,8 +1,8 @@
 ---
 title: Cómo funciona
-description: 
+description: Explicación de varios conceptos.
 published: true
-date: 2020-11-06T17:41:14.217Z
+date: 2020-11-06T17:46:18.812Z
 tags: 
 editor: markdown
 ---
