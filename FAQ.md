@@ -2,7 +2,7 @@
 title: Frequently Asked Questions
 description: Questions that we're tired of answering a thousand times :)
 published: true
-date: 2020-10-30T20:35:44.839Z
+date: 2020-11-06T18:27:28.924Z
 tags: 
 editor: markdown
 ---
