@@ -2,12 +2,12 @@
 title: vc/string-manipulation
 description: Modify text in different ways, such as case, word count, and "font"s
 published: true
-date: 2020-11-15T09:00:18.968Z
+date: 2020-11-15T17:32:45.212Z
 tags: 
 editor: markdown
 ---
 
-[optional-config](/en/self-hosting/optional-config)String manipulation can be done in your channel name template using this format:
+String manipulation can be done in your channel name template using this format:
 
 `vc/template ""operation:Text to manipulate""`
 
