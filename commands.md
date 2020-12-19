@@ -2,12 +2,12 @@
 title: Commands
 description: A list of all bot commands with links to more detailed documentation for each.
 published: true
-date: 2020-12-18T23:37:30.054Z
+date: 2020-12-19T15:20:57.453Z
 tags: 
 editor: markdown
 ---
 
-[commands](/en/self-hosting/commands)![dots_bots_t.png](/dots_bots_t.png)![dots_bots_t.png](/dots_bots_t.png)The default prefix for all commands is `vc/`, e.g. `vc/create`. You can also @mention the bot instead, like `@Auto Voice Channels create`.
+The default prefix for all commands is `vc/`, e.g. `vc/create`. You can also @mention the bot instead, like `@Auto Voice Channels create`.
 
 If you change your prefix and then forget what it is, the only way to use the bot again would be to @mention it with the prefix command, e.g. `@Auto Voice Channels prefix vc/`.
 
