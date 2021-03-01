@@ -2,7 +2,7 @@
 title: Willkommen!
 description: Hier findest du Hilfe zu dem Auto Voice Channel Discord Bot.
 published: true
-date: 2021-03-01T01:44:59.145Z
+date: 2021-03-01T02:03:24.214Z
 tags: 
 editor: markdown
 ---
@@ -21,7 +21,7 @@ Dieses System ermöglicht es Sprachkanälen, sich selbst, basierend auf verschie
 - und noch viele mehr...!
 
 Es gibt eine offizielle [kostenlose Version des Bots](https://discordapp.com/api/oauth2/authorize?client_id=479393422705426432&permissions=286280784&scope=bot), auch wenn sie aktuell, *aufgrund der großen Nachfrage und dem wachsenden Bekanntheitsgrad*, nur bedingt stabil läuft. 
-Wir empfehlen dir stattdessen den Bot selbst hosten (vorzugsweise auf einem Virtuellen privaten Server (VPS) oder auf einem dediziertem Server, welcher 24/7 online ist). 
+Wir empfehlen dir stattdessen den Bot selbst zu hosten (vorzugsweise auf einem Virtuellen privaten Server (VPS) oder auf einem dediziertem Server, welcher 24/7 online ist). 
 Eine weitere Möglichkeit wäre, uns zu bezahlen, um deinen eigenen privaten Bot - für dich - zu hosten.
 
 1. Um den Bot selbst zu hosten, befolge die Anweisungen auf unsrer [GitHub Hauptseite](https://github.com/gregzaal/Auto-Voice-Channels).
