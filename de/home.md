@@ -1,8 +1,8 @@
 ---
 title: Willkommen!
-description: Hier findest du Hilfe zu dem Auto Voice Channel Discord Bot.
+description: Hier findest du Hilfe zum Auto Voice Channel Discord Bot.
 published: true
-date: 2021-03-01T02:03:24.214Z
+date: 2021-03-03T21:49:21.787Z
 tags: 
 editor: markdown
 ---
