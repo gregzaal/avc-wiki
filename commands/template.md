@@ -2,7 +2,7 @@
 title: vc/template
 description: Automatically name your voice channels using dynamic variables
 published: true
-date: 2020-09-02T18:17:51.787Z
+date: 2021-03-19T17:04:27.283Z
 tags: 
 editor: markdown
 ---
@@ -55,6 +55,9 @@ The channel number with a `#` in front. The first channel created will be "#1", 
 
 ### `$#`
 The channel number just like `##`, but without a `#` in front. e.g. "1", "2", "3" instead of "#1", "#2", "#3".
+
+### `+#`
+The channel number just like `##`, but with roman number. e.g. "I", "II", "V".
 
 ### `$0#`, `$00#`, `$000#`, etc.
 Just like `$#` above but with padded zeros (e.g. "001", "002", etc.)
