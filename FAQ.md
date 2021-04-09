@@ -2,7 +2,7 @@
 title: Frequently Asked Questions
 description: Questions that we're tired of answering a thousand times :)
 published: true
-date: 2021-04-09T07:50:24.974Z
+date: 2021-04-09T08:05:09.221Z
 tags: 
 editor: markdown
 ---
@@ -31,6 +31,8 @@ Make sure it has permissions in the category your channels are in, as well as th
 Also if you have a `Bot` role that you give the bot, make sure that has correct permissions too, and take a look at the role hierarchy in your server settings.
 
 If you can't figure it out, you can always give the bot Admin permissions, but this is generally not recommended for any bot, and it is *absolutely* possible to get it working without admin permissions, even in complex setups. It just takes a bit of throwing stuff at the wall and seeing what sticks.
+
+To reset your bot permissions, you can try kicking the bot and re-inviting it. It will remember your channel setups, but forget any roles or permissions you gave it.
 
 # What is the difference between the *Alpha*, *Beta*, and *Asia* bots?
 
