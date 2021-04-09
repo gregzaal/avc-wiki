@@ -2,7 +2,7 @@
 title: Frequently Asked Questions
 description: Questions that we're tired of answering a thousand times :)
 published: true
-date: 2021-04-09T07:45:54.240Z
+date: 2021-04-09T07:50:24.974Z
 tags: 
 editor: markdown
 ---
@@ -13,12 +13,10 @@ The free public bots are simply struggling with popularity. So many people are u
 
 Sometimes they'll take so long trying to do something that they'll actually just give up and never do it at all.
 
-They might also get stuck in an infinite loop of creating channels for you and flood your server with broken channels, though this is less common.
-
 The only current solutions for this instability are:
 
-1. [Host your own bot](https://github.com/gregzaal/Auto-Voice-Channels). You can do this on your own computer for free, but a VPS with a decent connection that's on 24/7 is recommended. These usually start from $5/m.
-2. [Support us on Patreon](https://www.patreon.com/pixaal) ($3/m) and use our stable Gold bot, or let us host a private bot just for you ($7/m).
+1. [Host your own bot](https://github.com/gregzaal/Auto-Voice-Channels). You can do this on your own computer for free, but a VPS with a decent connection that's on 24/7 is recommended. These usually start from $3/m. Hosting at home will likely use more than $3/m in electricity, so a VPS is a better option in every way.
+2. [Support us on Patreon](https://www.patreon.com/pixaal) ($3/m) and use our stable Gold bot, supporting development and improvements of this bot at the same time.
 
 # Why isn't my channel renaming itself?
 
