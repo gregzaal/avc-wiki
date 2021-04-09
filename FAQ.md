@@ -2,7 +2,7 @@
 title: Frequently Asked Questions
 description: Questions that we're tired of answering a thousand times :)
 published: true
-date: 2020-11-06T18:27:28.924Z
+date: 2021-04-09T07:45:54.240Z
 tags: 
 editor: markdown
 ---
@@ -23,6 +23,16 @@ The only current solutions for this instability are:
 # Why isn't my channel renaming itself?
 
 Discord has strict rate-limiting that prevents the bot from renaming channels too often. If we consistently hit these limits, the bot would get banned. To prevent this, channels are only checked for renaming once every 10 minutes. [More info here](/how-it-works#channel-renaming)
+
+# The bot tells me it doesn't have permission to do something, but I already gave it those permissions!
+
+In January, Discord changed how permissions work a little and what overrides what and where, now sometimes requiring very specific configurations.
+
+Make sure it has permissions in the category your channels are in, as well as the specific channels themselves.
+
+Also if you have a `Bot` role that you give the bot, make sure that has correct permissions too, and take a look at the role hierarchy in your server settings.
+
+If you can't figure it out, you can always give the bot Admin permissions, but this is generally not recommended for any bot, and it is *absolutely* possible to get it working without admin permissions, even in complex setups. It just takes a bit of throwing stuff at the wall and seeing what sticks.
 
 # What is the difference between the *Alpha*, *Beta*, and *Asia* bots?
 
