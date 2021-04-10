@@ -2,7 +2,7 @@
 title: Frequently Asked Questions
 description: Questions that we're tired of answering a thousand times :)
 published: true
-date: 2021-04-09T08:05:09.221Z
+date: 2021-04-10T21:22:25.722Z
 tags: 
 editor: markdown
 ---
@@ -34,11 +34,9 @@ If you can't figure it out, you can always give the bot Admin permissions, but t
 
 To reset your bot permissions, you can try kicking the bot and re-inviting it. It will remember your channel setups, but forget any roles or permissions you gave it.
 
-# What is the difference between the *Alpha*, *Beta*, and *Asia* bots?
+# What is the difference between the *Alpha* and *Beta* bots?
 
 *Alpha* and *Beta* are the same, these are 2 copies of the same bot in an attempt to spread the load and improve performance.
-
-*Asia* is the same too, just hosted in Singapore for better response time to Asian discord servers.
 
 Alpha is the original "Auto Voice Channels" bot, and is merely referred to as "Alpha" in our support server.
 
