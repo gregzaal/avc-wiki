@@ -2,10 +2,13 @@
 title: vc/category
 description: Change the category where new secondary channels are created.
 published: true
-date: 2021-03-22T08:06:38.581Z
+date: 2021-05-18T08:23:21.809Z
 tags: 
 editor: markdown
 ---
+
+> This command has been temporarily removed due to unresolved technical issues.
+{.is-danger}
 
 Change the category where new [secondary](/how-it-works#primary-and-secondary-channels) channels are created.
 
