@@ -2,7 +2,7 @@
 title: Commands
 description: A list of all bot commands with links to more detailed documentation for each.
 published: true
-date: 2021-03-22T08:11:13.751Z
+date: 2021-05-18T08:24:02.448Z
 tags: 
 editor: markdown
 ---
@@ -68,7 +68,6 @@ All of these commands can only be used by server staff (people with both *manage
 * [alias](/commands/alias) - Set an alias for a game name.
 * [aliases](/commands/aliases) - List all the game name aliases you've set.
 * [asip](/commands/asip) - Assume offline/no-status users are playing the same game.
-* [category](/en/commands/category) - Change the category for secondaries from a certain primary.
 * [create](/commands/create) - Create a new primary channel.
 * [dcnf](/commands/dcnf) - Disable "command not found" errors.
 * [defaultlimit](/commands/defaultlimit) - Set the default user limit for secondaries from a certain primary.
@@ -77,7 +76,6 @@ All of these commands can only be used by server staff (people with both *manage
 * [enable](/commands/enable) - Enable the bot (enabled by default).
 * [general](/commands/general)💳 - Set the word to use instead of "General" in channel names.
 * [inheritpermissions](/commands/inheritpermissions) - Set where secondaries get their permissions from (default from their primary).
-* [listcategories](/en/commands/listcategories) - List all the categories in your server and their IDs.
 * [listroles](/commands/listroles) - List all the roles in your server and their IDs.
 * [logging](/commands/logging)💳 - Configure channel activity logging.
 * [prefix](/commands/prefix) - Set the bot prefix in your server (default `vc/`).
